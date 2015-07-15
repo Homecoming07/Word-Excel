@@ -1,0 +1,27 @@
+c:\users\дмитрий\documents\visual studio 2013\Projects\ExcelToWord\ExcelToWord\bin\Debug\ExcelToWord.exe.config
+c:\users\дмитрий\documents\visual studio 2013\Projects\ExcelToWord\ExcelToWord\obj\Debug\ExcelToWord.csprojResolveAssemblyReference.cache
+c:\users\дмитрий\documents\visual studio 2013\Projects\ExcelToWord\ExcelToWord\obj\Debug\ExcelToWord.Properties.Resources.resources
+c:\users\дмитрий\documents\visual studio 2013\Projects\ExcelToWord\ExcelToWord\obj\Debug\ExcelToWord.csproj.GenerateResource.Cache
+c:\users\дмитрий\documents\visual studio 2013\Projects\ExcelToWord\ExcelToWord\bin\Debug\ExcelToWord.exe
+c:\users\дмитрий\documents\visual studio 2013\Projects\ExcelToWord\ExcelToWord\bin\Debug\ExcelToWord.pdb
+c:\users\дмитрий\documents\visual studio 2013\Projects\ExcelToWord\ExcelToWord\obj\Debug\ExcelToWord.exe
+c:\users\дмитрий\documents\visual studio 2013\Projects\ExcelToWord\ExcelToWord\obj\Debug\ExcelToWord.pdb
+c:\users\дмитрий\documents\visual studio 2013\Projects\ExcelToWord\ExcelToWord\bin\Debug\Microsoft.Office.Interop.Excel.dll
+c:\users\дмитрий\documents\visual studio 2013\Projects\ExcelToWord\ExcelToWord\bin\Debug\office.dll
+c:\users\дмитрий\documents\visual studio 2013\Projects\ExcelToWord\ExcelToWord\bin\Debug\Microsoft.Vbe.Interop.dll
+c:\users\дмитрий\documents\visual studio 2013\Projects\ExcelToWord\ExcelToWord\obj\Debug\ExcelToWord.FormMain.resources
+c:\users\дмитрий\documents\visual studio 2013\Projects\ExcelToWord\ExcelToWord\bin\Debug\Microsoft.Office.Interop.Word.dll
+C:\Users\Дмитрий\documents\visual studio 2013\Projects\ExcelToWord\ExcelToWord\obj\Debug\ExcelToWord.csproj.ResolveComReference.cache
+C:\Users\Дмитрий\Source\Repos\Word-Excel\ExcelToWord\ExcelToWord\bin\Debug\ExcelToWord.exe.config
+C:\Users\Дмитрий\Source\Repos\Word-Excel\ExcelToWord\ExcelToWord\obj\Debug\ExcelToWord.csproj.ResolveComReference.cache
+C:\Users\Дмитрий\Source\Repos\Word-Excel\ExcelToWord\ExcelToWord\obj\Debug\ExcelToWord.exe
+C:\Users\Дмитрий\Source\Repos\Word-Excel\ExcelToWord\ExcelToWord\obj\Debug\ExcelToWord.pdb
+C:\Users\Дмитрий\Source\Repos\Word-Excel\ExcelToWord\ExcelToWord\bin\Debug\ExcelToWord.exe
+C:\Users\Дмитрий\Source\Repos\Word-Excel\ExcelToWord\ExcelToWord\bin\Debug\ExcelToWord.pdb
+C:\Users\Дмитрий\Source\Repos\Word-Excel\ExcelToWord\ExcelToWord\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Дмитрий\Source\Repos\Word-Excel\ExcelToWord\ExcelToWord\bin\Debug\Microsoft.Office.Interop.Word.dll
+C:\Users\Дмитрий\Source\Repos\Word-Excel\ExcelToWord\ExcelToWord\bin\Debug\office.dll
+C:\Users\Дмитрий\Source\Repos\Word-Excel\ExcelToWord\ExcelToWord\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Дмитрий\Source\Repos\Word-Excel\ExcelToWord\ExcelToWord\obj\Debug\ExcelToWord.FormMain.resources
+C:\Users\Дмитрий\Source\Repos\Word-Excel\ExcelToWord\ExcelToWord\obj\Debug\ExcelToWord.Properties.Resources.resources
+C:\Users\Дмитрий\Source\Repos\Word-Excel\ExcelToWord\ExcelToWord\obj\Debug\ExcelToWord.csproj.GenerateResource.Cache
